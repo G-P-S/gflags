@@ -1,0 +1,6 @@
+C:/Users/egraff/Documents/Emilio/Libraries/gflags-2.1.1/vstudio32/CMakeFiles/ALL_BUILD.dir
+C:/Users/egraff/Documents/Emilio/Libraries/gflags-2.1.1/vstudio32/CMakeFiles/ZERO_CHECK.dir
+C:/Users/egraff/Documents/Emilio/Libraries/gflags-2.1.1/vstudio32/CMakeFiles/gflags.dir
+C:/Users/egraff/Documents/Emilio/Libraries/gflags-2.1.1/vstudio32/CMakeFiles/gflags-static.dir
+C:/Users/egraff/Documents/Emilio/Libraries/gflags-2.1.1/vstudio32/CMakeFiles/gflags_nothreads.dir
+C:/Users/egraff/Documents/Emilio/Libraries/gflags-2.1.1/vstudio32/CMakeFiles/gflags_nothreads-static.dir
